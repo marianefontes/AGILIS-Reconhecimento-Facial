@@ -3,20 +3,20 @@
 Este aplicativo tem como objetivo facilitar o registro de ponto dos residentes do Hospital das Clínicas - UFPE através do reconhecimento facial. <br>
 Com essa ferramenta, os residentes poderão registrar sua entrada e saída apenas com o uso de sua face, evitando a necessidade de uso de cartões ou senhas, o que reduz as chances de erro ou perca e aumenta a segurança.
 
-<h3>Colaboradores:</h3>
+<h3> Colaboradores: </h3>
 
-Athos: acmc@cesar.school
-Enzo: ebn@cesar.school
-Erick: gets@cesar.school
-Gabriela: gol@cesar.school
-Lany: lsmc@cesar.school
-Mariane: mbsf@cesar.school
-Marina: mffcc@cesar.school
-Pedro Lira: phcl@cesar.school
-Sergio: sgm2@cesar.school
-Thiago: tlvs@cesar.school
+Athos: acmc@cesar.school <br>
+Enzo: ebn@cesar.school <br>
+Erick: gets@cesar.school <br>
+Gabriela: gol@cesar.school <br>
+Lany: lsmc@cesar.school <br>
+Mariane: mbsf@cesar.school <br>
+Marina: mffcc@cesar.school <br>
+Pedro Lira: phcl@cesar.school <br>
+Sergio: sgm2@cesar.school <br>
+Thiago: tlvs@cesar.school <br>
 
-<h3>Contribua!</h3>
+<h3> Contribua! </h3>
 
 Este repositório foi criado para uma cadeira da faculdade com a finalidade de aumentarmos nossos conhecimento, se possível contribua com ele. <br>
 Se te ajudamos de alguma maneira, ficaremos felizes em saber. <br>
