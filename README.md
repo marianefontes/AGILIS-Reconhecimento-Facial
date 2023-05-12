@@ -1,4 +1,4 @@
-# Aplicativo de Reconhecimento Facial para Registro de Ponto de Hospital
+# Aplicativo de Reconhecimento Facial para Registro de Ponto da Residência do Hospital das Clínicas - UFPE
 
 Este aplicativo tem como objetivo facilitar o registro de ponto dos residentes do Hospital das Clínicas - UFPE através do reconhecimento facial. <br>
 Com essa ferramenta, os residentes poderão registrar sua entrada e saída apenas com o uso de sua face, evitando a necessidade de uso de cartões ou senhas, o que reduz as chances de erro ou perca e aumenta a segurança.
