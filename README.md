@@ -18,8 +18,8 @@ Thiago: tlvs@cesar.school <br>
 
 <h3> Contribua! </h3>
 
-Este repositório foi criado para uma cadeira da faculdade com a finalidade de aumentarmos nossos conhecimento, se possível contribua com ele. <br>
-Se te ajudamos de alguma maneira, ficaremos felizes em saber. <br>
+Este repositório foi criado para uma cadeira da faculdade com a finalidade de aumentarmos nossos conhecimento. <br>
+Se te ajudamos de alguma maneira, ficaremos felizes em saber! <br>
 Caso você conheça alguém que se identifique com o conteúdo, não deixe de compartilhá-lo.
 
 Se possível:
